@@ -1,6 +1,8 @@
 # *Golang Conference Booking Application*
 
-## *This application allows users to book tickets for the Golang Conference. The application has the following features:*
+***This application allows users to book tickets for the Golang Conference.*** 
+
+***The application has the following features:***
 
 * *Users can enter their first name, last name, email address, and number of tickets.*
 
